@@ -1,1 +1,1 @@
-# d-tection-automatique-de-faux-billets
+# detection-automatique-de-faux-billets
