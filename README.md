@@ -26,7 +26,7 @@ Un fichier d'exemple contenant 1 500 billets (1 000 vrais et 500 faux) est fourn
 
 # Fonctionnement Général
 
-L'algorithme prend en entrée un fichier contenant les dimensions de plusieurs billets et détermine le type de chacun (vrai ou faux) en se basant uniquement sur les dimensions. Deux méthodes de prédiction seront mise en concurrence :
+L'algorithme prend en entrée un fichier contenant les dimensions de plusieurs billets et détermine le type de chacun (vrai ou faux) en se basant uniquement sur les dimensions. Deux méthodes de prédiction seront mises en concurrence :
 
     --> la Régression logistique
     --> le K-means (clustering) avec utilisation des centroïdes pour la prédiction
